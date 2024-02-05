@@ -24,7 +24,7 @@ body{
 }
 
 .img{
-    width: 32rem;
+    width: 48rem;
 }
 
 .calculator{
@@ -167,6 +167,11 @@ body{
 #more_info a:hover{
     color: #f8fafc;
  
+}
+
+.hidden{ /*Sumir resultado na inicialização*/
+    display: none;
+
 }
 
 
